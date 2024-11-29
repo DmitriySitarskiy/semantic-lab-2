@@ -7,7 +7,6 @@ function ResultsTable({ data }) {
 
   return (
     <div>
-      <h1>test</h1>
       <table style={{ marginTop: "20px", width: "100%", textAlign: "left" }}>
         <thead>
           <tr>
